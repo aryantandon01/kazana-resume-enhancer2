@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "AI Resume Builder",
-  description: "Build professional resumes with AI assistance",
+  title: "AI Resume Enhancer",
+  description: "Transform your resume with AI-powered enhancement agents",
 };
 
 export default function RootLayout({
