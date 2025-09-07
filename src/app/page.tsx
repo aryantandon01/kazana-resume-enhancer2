@@ -1,5 +1,5 @@
-import { ResumeBuilder } from '@/components/resume/ResumeBuilder';
+import { ResumeEnhancer } from '@/components/enhancement/ResumeEnhancer';
 
 export default function Home() {
-  return <ResumeBuilder />;
+  return <ResumeEnhancer />;
 }
